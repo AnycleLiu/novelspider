@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelSpider.Tests", "NovelSpider.Tests\NovelSpider.Tests.csproj", "{348FF3F3-0E8A-4663-BD0D-B7E40A71C1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelSpider.Core", "NovelSpider.Core\NovelSpider.Core.csproj", "{66A6DED4-98AB-44C4-885A-1E8C921424EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelSpider.Cli", "NovelSpider.Console\NovelSpider.Cli.csproj", "{72473DAF-2ABF-4A55-A6B9-EE1FF676A6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348FF3F3-0E8A-4663-BD0D-B7E40A71C1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348FF3F3-0E8A-4663-BD0D-B7E40A71C1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348FF3F3-0E8A-4663-BD0D-B7E40A71C1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348FF3F3-0E8A-4663-BD0D-B7E40A71C1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A6DED4-98AB-44C4-885A-1E8C921424EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A6DED4-98AB-44C4-885A-1E8C921424EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A6DED4-98AB-44C4-885A-1E8C921424EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A6DED4-98AB-44C4-885A-1E8C921424EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72473DAF-2ABF-4A55-A6B9-EE1FF676A6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72473DAF-2ABF-4A55-A6B9-EE1FF676A6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72473DAF-2ABF-4A55-A6B9-EE1FF676A6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72473DAF-2ABF-4A55-A6B9-EE1FF676A6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
